@@ -5,7 +5,10 @@ public class Master02 {
 		// TODO Auto-generated method stub
 		System.out.println("Prueba de la clase Master02");
 		//mdoficado en GitHub
+
 		//modfiicado con Git
+
+
 	}
 
 }
