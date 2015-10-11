@@ -6,6 +6,8 @@ public class Master03 {
 		System.out.print("Codigo de la clasee master03");
 		// modifico en master y voy a mezclar
 		// modifico en rama01
+		// vuelvo a cambiar
+		// problemas en rama
 		
 		
 	}
