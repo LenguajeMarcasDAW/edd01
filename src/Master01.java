@@ -5,7 +5,7 @@ public class Master01 {
 		// TODO Auto-generated method stub
 		System.out.println("Clase master 01");
 		// modificado tras Commit Inicial
-		// modificado GitHub
+		// modificado GitHub de segundas
 	}
 
 }
