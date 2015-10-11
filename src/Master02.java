@@ -7,6 +7,8 @@ public class Master02 {
 		// comentario desde eclipse
 		//mdoficado en GitHub
 		// cambiado tras los cambios
+		
+		
 	}
 
 }
