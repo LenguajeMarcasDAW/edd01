@@ -6,6 +6,7 @@ public class Master02 {
 		System.out.println("Prueba de la clase Master02");
 		//mdoficado en GitHub
 		// modifico en codigo
+
 	}
 
 }
