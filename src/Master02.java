@@ -8,7 +8,6 @@ public class Master02 {
 
 		//modfiicado con Git
 
-
 	}
 
 }
