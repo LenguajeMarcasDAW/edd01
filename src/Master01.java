@@ -6,6 +6,10 @@ public class Master01 {
 		System.out.println("Clase master 01");
 		// modificado tras Commit Inicial
 		// modificado GitHub de segundas
+		// modificado tras Commit Inicial
+		// modificado GitHub de segundas
+		// cambio desde Eclipase
+		// camnbio desde eclipse
 	}
 
 }
